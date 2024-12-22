@@ -1,0 +1,5 @@
+/home/alex/KriptaKursach/build/Desktop-Debug/CMakeFiles/KriptaKursach.dir
+/home/alex/KriptaKursach/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/alex/KriptaKursach/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/alex/KriptaKursach/build/Desktop-Debug/CMakeFiles/KriptaKursach_autogen_timestamp_deps.dir
+/home/alex/KriptaKursach/build/Desktop-Debug/CMakeFiles/KriptaKursach_autogen.dir
